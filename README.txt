@@ -1,6 +1,6 @@
-Website for the Penn State Elevate Program
+#Website for the Penn State Elevate Program
 
-Credits:
+####Credits:
 
 	Twenty by HTML5 UP
 	html5up.net | @n33co
